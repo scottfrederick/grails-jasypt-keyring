@@ -1,0 +1,11 @@
+target
+work
+plugins
+web-app/plugins/
+web-app/WEB-INF/classes/
+
+.idea
+*.iml
+.classpath
+.project
+.settings
